@@ -1,5 +1,5 @@
 <h3 align="center">
-  Desafio 06: Banco de dados e upload de arquivos no Node.js
+  Desafio 06: Banco de dados e upload de arquivos no Node.js - GoFinance Server
 </h3>
 
 ## :rocket: Sobre o desafio
